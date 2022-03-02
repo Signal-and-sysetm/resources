@@ -3,8 +3,7 @@ Here's how to renew and install the 2022 MATLAB software license.
 Matlab is available to all members of the cuts (faculty, staff, and students) and can be used on personal PCs, MAC and laptops for up to two units.
  
 How to renew your license
-- See attachments page 4 after How to Update License
-- 2. new installation methods
+See attachments page 4 (How to Update License/ new installation methods)
 
 1) Access matlab Inha University's dedicated site https://kr.mathworks.com/academia/tah-portal/inha-university-1066664.html and use
 it after creating a MathWorks Account with your school email address (staff : @inha.ac.kr, student: @inha.edu) - Be sure to select
